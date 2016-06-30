@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<head></head>
+<body>
+<h3>H3</h3>
+<p>Paragraph</p>
+<ul class="list">
+<li>List 1</li>
+<li>List 2</li>
+<li>List 3</li>
+</ul>
+</body>
+</html>
